@@ -7,7 +7,7 @@ title = Kpritz
 package.name = Kpritz
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = fr.tshirtman.kpritz
+package.domain = fr.tshirtman.kpritz.test
 
 # (str) Source code where the main.py live
 source.dir = .
